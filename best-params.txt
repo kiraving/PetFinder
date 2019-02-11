@@ -1,0 +1,89 @@
+{'application': 'regression', 'bagging_fraction': 0.85, 'boosting': 'gbdt', 'data_random_seed': 17, 'early_stop': 100, 'feature_fraction': 0.8, 'lambda_l2': 0.0475, 'learning_rate': 0.015, 'max_depth': 10, 'metric': 'rmse', 'min_child_samples': 150, 'min_child_weight': 0.02, 'min_split_gain': 0.02, 'num_leaves': 60, 'num_rounds': 10000, 'verbose_eval': 100, 'verbosity': -1}
+
+lgb cv RMSE scores : [1.0458995811716079, 1.034943676709239, 1.029712867558607, 1.0375236088724074, 1.033669143418353]
+lgb cv mean RMSE score : 1.036349775546043
+lgb cv std RMSE score : 1.036349775546043
+lgb cv QWK scores : [0.44119698218474623, 0.45786632758751356, 0.4627389103567633, 0.45889089840767283, 0.45827414204067085]
+lgb cv mean QWK score : 0.4557934521154733
+lgb cv std QWK score : 0.007501215013326118
+
+
+
+
+{'application': 'regression', 'bagging_fraction': 0.85, 'boosting': 'gbdt', 'data_random_seed': 17, 'early_stop': 100, 'feature_fraction': 0.8, 'lambda_l2': 0.0475, 'learning_rate': 0.015, 'max_depth': 12, 'metric': 'rmse', 'min_child_samples': 70, 'min_child_weight': 0.04, 'min_split_gain': 0.01, 'num_leaves': 60, 'num_rounds': 10000, 'verbose_eval': 100, 'verbosity': -1}
+
+lgb cv RMSE scores : [1.0396801715540516, 1.0322458446204428, 1.026577619042626, 1.0322345259406602, 1.03187205150257]
+lgb cv mean RMSE score : 1.03252204253207
+lgb cv std RMSE score : 1.03252204253207
+lgb cv QWK scores : [0.4407161001572517, 0.4626750751631591, 0.469179463107788, 0.44558865506406187, 0.45498069653665374]
+lgb cv mean QWK score : 0.4546279980057829
+lgb cv std QWK score : 0.010505956464894812
+
+{'application': 'regression', 'bagging_fraction': 0.85, 'boosting': 'gbdt', 'data_random_seed': 17, 'early_stop': 100, 'feature_fraction': 0.8, 'lambda_l2': 0.0475, 'learning_rate': 0.015, 'max_depth': 12, 'metric': 'rmse', 'min_child_samples': 70, 'min_child_weight': 0.005, 'min_split_gain': 0.01, 'num_leaves': 60, 'num_rounds': 10000, 'verbose_eval': 100, 'verbosity': -1}
+
+lgb cv RMSE scores : [1.03890475984248, 1.0322458446204428, 1.026577619042626, 1.0322345259406602, 1.03187205150257]
+lgb cv mean RMSE score : 1.0323669601897558
+lgb cv std RMSE score : 1.0323669601897558
+lgb cv QWK scores : [0.43949508665187387, 0.4626750751631591, 0.469179463107788, 0.44558865506406187, 0.45498069653665374]
+lgb cv mean QWK score : 0.4543837953047073
+lgb cv std QWK score : 0.010835511392754517
+
+{'application': 'regression', 'bagging_fraction': 0.85, 'boosting': 'gbdt', 'data_random_seed': 17, 'early_stop': 100, 'feature_fraction': 0.8, 'lambda_l2': 0.0475, 'learning_rate': 0.015, 'max_depth': 12, 'metric': 'rmse', 'min_child_samples': 70, 'min_child_weight': 0.04, 'min_split_gain': 0.05, 'num_leaves': 60, 'num_rounds': 10000, 'verbose_eval': 100, 'verbosity': -1}
+
+lgb cv RMSE scores : [1.03890475984248, 1.0322458446204428, 1.026577619042626, 1.0322345259406602, 1.03187205150257]
+lgb cv mean RMSE score : 1.0323669601897558
+lgb cv std RMSE score : 1.0323669601897558
+lgb cv QWK scores : [0.43949508665187387, 0.4626750751631591, 0.469179463107788, 0.44558865506406187, 0.45498069653665374]
+lgb cv mean QWK score : 0.4543837953047073
+lgb cv std QWK score : 0.010835511392754517
+
+
+
+{'application': 'regression', 'bagging_fraction': 0.85, 'boosting': 'gbdt', 'data_random_seed': 17, 'early_stop': 100, 'feature_fraction': 0.8, 'lambda_l2': 0.0475, 'learning_rate': 0.015, 'max_depth': 10, 'metric': 'rmse', 'min_child_samples': 70, 'min_child_weight': 0.005, 'min_split_gain': 0.01, 'num_leaves': 60, 'num_rounds': 10000, 'verbose_eval': 100, 'verbosity': -1}
+
+lgb cv RMSE scores : [1.045337002509713, 1.0305397693024998, 1.0238591727720507, 1.03543585081525, 1.0334475511156478]
+lgb cv mean RMSE score : 1.0337238693030322
+lgb cv std RMSE score : 1.0337238693030322
+lgb cv QWK scores : [0.4301296651149963, 0.4550439209981536, 0.4591281395825073, 0.46157272118482706, 0.4597357159257094]
+lgb cv mean QWK score : 0.45312203256123873
+lgb cv std QWK score : 0.011692483768269507
+
+{'application': 'regression', 'bagging_fraction': 0.85, 'boosting': 'gbdt', 'data_random_seed': 17, 'early_stop': 100, 'feature_fraction': 0.8, 'lambda_l2': 0.0475, 'learning_rate': 0.015, 'max_depth': 10, 'metric': 'rmse', 'min_child_samples': 70, 'min_child_weight': 0.04, 'min_split_gain': 0.01, 'num_leaves': 60, 'num_rounds': 10000, 'verbose_eval': 100, 'verbosity': -1}
+
+lgb cv RMSE scores : [1.045337002509713, 1.0305397693024998, 1.0238591727720507, 1.03543585081525, 1.0334475511156478]
+lgb cv mean RMSE score : 1.0337238693030322
+lgb cv std RMSE score : 1.0337238693030322
+lgb cv QWK scores : [0.4301296651149963, 0.4550439209981536, 0.4591281395825073, 0.46157272118482706, 0.4597357159257094]
+lgb cv mean QWK score : 0.45312203256123873
+lgb cv std QWK score : 0.011692483768269507
+
+
+
+{'application': 'regression', 'bagging_fraction': 0.85, 'boosting': 'gbdt', 'data_random_seed': 17, 'early_stop': 100, 'feature_fraction': 0.8, 'lambda_l2': 0.0475, 'learning_rate': 0.015, 'max_depth': 10, 'metric': 'rmse', 'min_child_samples': 70, 'min_child_weight': 0.04, 'min_split_gain': 0.05, 'num_leaves': 60, 'num_rounds': 10000, 'verbose_eval': 100, 'verbosity': -1}
+
+lgb cv RMSE scores : [1.0436883539786188, 1.0305397693024998, 1.0238591727720507, 1.0355349854035831, 1.0334475511156478]
+lgb cv mean RMSE score : 1.03341396651448
+lgb cv std RMSE score : 1.03341396651448
+lgb cv QWK scores : [0.42483145665407607, 0.4550439209981536, 0.4591281395825073, 0.462186413333706, 0.4597357159257094]
+lgb cv mean QWK score : 0.45218512929883053
+lgb cv std QWK score : 0.013868226488574564
+
+{'application': 'regression', 'bagging_fraction': 0.85, 'boosting': 'gbdt', 'data_random_seed': 17, 'early_stop': 100, 'feature_fraction': 0.8, 'lambda_l2': 0.0475, 'learning_rate': 0.015, 'max_depth': 10, 'metric': 'rmse', 'min_child_samples': 70, 'min_child_weight': 0.005, 'min_split_gain': 0.05, 'num_leaves': 60, 'num_rounds': 10000, 'verbose_eval': 100, 'verbosity': -1}
+
+lgb cv RMSE scores : [1.0436883539786188, 1.0305397693024998, 1.0238591727720507, 1.0355349854035831, 1.0334475511156478]
+lgb cv mean RMSE score : 1.03341396651448
+lgb cv std RMSE score : 1.03341396651448
+lgb cv QWK scores : [0.42483145665407607, 0.4550439209981536, 0.4591281395825073, 0.462186413333706, 0.4597357159257094]
+lgb cv mean QWK score : 0.45218512929883053
+lgb cv std QWK score : 0.013868226488574564
+
+
+
+{'application': 'regression', 'bagging_fraction': 0.85, 'boosting': 'gbdt', 'data_random_seed': 17, 'early_stop': 100, 'feature_fraction': 0.8, 'lambda_l2': 0.0475, 'learning_rate': 0.01, 'max_depth': 9, 'metric': 'rmse', 'min_child_samples': 150, 'min_child_weight': 0.02, 'min_split_gain': 0.02, 'num_leaves': 60, 'num_rounds': 10000, 'verbose_eval': 100, 'verbosity': -1}
+
+lgb cv RMSE scores : [1.0464033266842545, 1.0336010662685442, 1.0285332325299654, 1.0344110125635688, 1.0344907252171518]
+lgb cv mean RMSE score : 1.035487872652697
+lgb cv std RMSE score : 1.035487872652697
+lgb cv QWK scores : [0.4451839625153079, 0.44391183956318836, 0.4550238834438298, 0.46344514050421315, 0.4478302932527136]
+lgb cv mean QWK score : 0.45107902385585064
+lgb cv std QWK score : 0.007282270079518958
