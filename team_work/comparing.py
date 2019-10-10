@@ -1,3 +1,5 @@
+# Author: Stanislau Fink https://www.kaggle.com/kgeorge
+
 import pandas as pd
 import numpy as np
 
